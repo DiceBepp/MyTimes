@@ -1,0 +1,46 @@
+
+/* Header */
+
+header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  width: 100%
+  height: auto;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  border-bottom: 1px solid black;
+}
+
+.logo {
+  padding: 10px;
+}
+
+.name {
+  color: MediumAquamarine;
+  height: auto;
+  min-width: 75px;;
+}
+
+nav {
+  text-align: right;
+  height: auto;
+  width: 100%;
+  padding: 0;
+  margin: 10px;
+}
+
+.box {
+  height: auto;
+  width: auto;
+  padding: 0 10px;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  text-decoration-line: underline;
+}
